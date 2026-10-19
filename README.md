@@ -5,3 +5,5 @@
 #etape3:
 <img width="755" height="438" alt="controle3" src="https://github.com/user-attachments/assets/0cdedb28-de8d-4850-91af-b6db07e9a680" />
 <img width="884" height="524" alt="controle4" src="https://github.com/user-attachments/assets/8c4cdf27-f5b0-4fcd-82b9-efda566bee58" />
+#RESULTAT OBTENU:
+<img width="762" height="645" alt="Controle 5" src="https://github.com/user-attachments/assets/eb162170-7e05-4fc4-a70b-40cdd8a8c56f" />
